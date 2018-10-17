@@ -1,0 +1,32 @@
+{
+  "name": "kusflo/TwitterAccountActivity",
+  "type": "library",
+  "minimum-stability": "dev",
+  "description": "PHP library to manage Twitter Account Activity API",
+  "keywords": [
+    "php",
+    "api",
+    "twitter",
+    "account",
+    "activity"
+  ],
+  "homepage": "https://github.com/kusflo/TwitterAccountActivity",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marcos Redondo",
+      "email": "kusflo@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.6",
+    "ext-curl": "*",
+    "guzzlehttp/guzzle": "^6.2.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "TwitAA\\": "src/"
+    }
+  }
+}
