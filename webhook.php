@@ -13,7 +13,7 @@ try {
     ServiceLog::add($jsonEvent, PATH_LOG_EVENTS);
 
 } catch (Exception $e){
-    ServiceLog::add($e->getMessage(), PATH_LOG);
+    ServiceLog::add($e->getMessage(), PATH_LOG_ERRORS);
 }
 
 
