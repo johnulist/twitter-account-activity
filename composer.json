@@ -23,7 +23,8 @@
     "ext-curl": "*",
     "ext-json": "*",
     "php": "^5.6 || ^7.0 || ^7.1 || ^7.2",
-    "abraham/twitteroauth": "dev-master"
+    "abraham/twitteroauth": "dev-master",
+    "doctrine/dbal": "^2.5"
   },
   "autoload": {
     "psr-4": {
