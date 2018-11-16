@@ -1,5 +1,5 @@
 {
-  "name": "kusflo/TwitterAccountActivity",
+  "name": "kusflo/twitter-account-activity",
   "type": "library",
   "minimum-stability": "dev",
   "description": "PHP library to manage Twitter Account Activity API",
@@ -10,7 +10,7 @@
     "account",
     "activity"
   ],
-  "homepage": "https://github.com/kusflo/TwitterAccountActivity",
+  "homepage": "https://github.com/kusflo/twitter-account-activity",
   "license": "MIT",
   "authors": [
     {
