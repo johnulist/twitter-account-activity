@@ -2,7 +2,7 @@
   "name": "kusflo/twitter-account-activity",
   "type": "library",
   "minimum-stability": "dev",
-  "description": "PHP library to manage Twitter Account Activity API",
+  "description": "Php library to create webhook of Twitter Account Activity API",
   "keywords": [
     "php",
     "api",
